@@ -1,2 +1,3 @@
-	name: maquanhong
-	markdown: kramdown
+name: maquanhong
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
